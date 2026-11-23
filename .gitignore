@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+server/certs/*.key
+server/.jwt_secret
+client/.token
+server/logs/*.jsonl

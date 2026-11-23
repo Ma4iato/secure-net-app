@@ -1,0 +1,12 @@
+{
+  "alice": {
+    "pwd": "$2b$12$2dF6b/7QjX2cKqYV5sC5Iu0fNf7a0yGTk2w2tqGQZzQXGJ6pLJ4tK",
+    "role": "user",
+    "totp_secret": null
+  },
+  "admin": {
+    "pwd": "$2b$12$2dF6b/7QjX2cKqYV5sC5Iu0fNf7a0yGTk2w2tqGQZzQXGJ6pLJ4tK",
+    "role": "admin",
+    "totp_secret": null
+  }
+}
